@@ -115,8 +115,8 @@ Exception
 
 1. **Clonar o descargar el proyecto**
    ```bash
-   git clone [repositorio]
-   cd "aplicacion-usando POO-patrones"
+   git clone https://github.com/kyxent-Immortal-Dev/POO_patrones_de_diseno.git
+   cd POO_patrones_de_diseno
    ```
 
 2. **Compilar el proyecto**
@@ -257,3 +257,5 @@ Este es un proyecto académico demostrativo. Las contribuciones son bienvenidas 
 Este proyecto demuestra la aplicación práctica de conceptos fundamentales de POO y patrones de diseño en un contexto real. La implementación es funcional, bien estructurada y cumple con todos los requisitos académicos establecidos.
 
 **¡Sistema de Reservas de Hotel - Demostrando la potencia de Java y POO! 🚀** 
+
+Ezequiel Campos
